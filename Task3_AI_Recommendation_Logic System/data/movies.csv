@@ -1,0 +1,41 @@
+Movie,Genre,Mood,Language,Rating
+Inception,Sci-Fi,Exciting,English,9.0
+Interstellar,Sci-Fi,Adventure,English,8.9
+Avatar,Sci-Fi,Adventure,English,8.7
+The Matrix,Sci-Fi,Exciting,English,8.8
+Titanic,Romance,Emotional,English,8.0
+The Notebook,Romance,Emotional,English,7.9
+La La Land,Romance,Happy,English,8.2
+Frozen,Animation,Family,English,7.8
+Toy Story,Animation,Funny,English,8.3
+Finding Nemo,Animation,Family,English,8.2
+The Lion King,Animation,Adventure,English,8.5
+Avengers Endgame,Action,Exciting,English,8.9
+Iron Man,Action,Exciting,English,8.4
+John Wick,Action,Thriller,English,8.1
+Mad Max Fury Road,Action,Adventure,English,8.3
+Mission Impossible,Action,Thriller,English,8.0
+The Dark Knight,Action,Thriller,English,9.0
+Joker,Drama,Dark,English,8.5
+Parasite,Thriller,Suspense,Korean,8.6
+Train to Busan,Thriller,Suspense,Korean,8.5
+Oldboy,Thriller,Dark,Korean,8.4
+Shutter Island,Thriller,Mystery,English,8.2
+Gone Girl,Thriller,Mystery,English,8.1
+The Conjuring,Horror,Scary,English,7.9
+Insidious,Horror,Scary,English,7.8
+Annabelle,Horror,Scary,English,7.2
+The Nun,Horror,Scary,English,6.9
+Coco,Animation,Family,English,8.4
+Moana,Animation,Adventure,English,7.9
+Up,Animation,Emotional,English,8.3
+Soul,Animation,Inspirational,English,8.1
+The Pursuit of Happyness,Drama,Inspirational,English,8.5
+Forrest Gump,Drama,Inspirational,English,8.8
+Whiplash,Drama,Motivational,English,8.5
+3 Idiots,Comedy,Funny,Hindi,8.4
+PK,Comedy,Funny,Hindi,8.1
+Dangal,Drama,Motivational,Hindi,8.4
+Zindagi Na Milegi Dobara,Drama,Adventure,Hindi,8.2
+Bahubali,Action,Adventure,Hindi,8.0
+KGF,Action,Thriller,Hindi,8.2
